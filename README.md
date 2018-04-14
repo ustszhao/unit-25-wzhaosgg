@@ -6,11 +6,11 @@
 
 #### 3. Find all the terminology in the figure and translate them to Chinese.
 
-![GIS Figure 02](./p3p2-lg.jpg)
+<img src="./p3p2-lg.jpg" width = "600" height = "400" alt="GIS Figure 01" align=center />
 
 #### 3. Describe this figure in English.
 
-<img src="./GisDataLayers.jpg" width = "600" height = "600" alt="GIS Figure 02" align=center />
+<img src="./GisDataLayers.jpg" width = "600" height = "400" alt="GIS Figure 02" align=center />
 
 
 
