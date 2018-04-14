@@ -10,9 +10,7 @@
 
 #### 3. Describe this figure in English.
 
-![GIS Figure 02](./GisDataLayers.jpg)
-
-
+<img src="./GisDataLayers.jpg" width = "600" height = "600" alt="GIS Figure 02" align=center />
 
 
 
