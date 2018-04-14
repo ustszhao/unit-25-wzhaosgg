@@ -8,7 +8,9 @@
 
 ![GIS Figure 02](./p3p2-lg.jpg)
 
+#### 3. Describe this figure in English.
 
+![GIS Figure 02](./GisDataLayers.jpg)
 
 
 
