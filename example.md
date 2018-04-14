@@ -17,7 +17,9 @@ A geographic information system (GIS) is a system designed to capture, store, ma
 
 ### 3. Find all the terminology in the figure and translate them to Chinese.
 
-![GIS Figure 02](./p3p2-lg.jpg)
++ Geographic Information System (GIS) : 地理信息系统
++ Global Positioning System (GPS) : 全球定位系统
++ Remote Sensing (RS) : 遥感
 
 
 
