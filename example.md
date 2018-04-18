@@ -21,6 +21,9 @@ A geographic information system (GIS) is a system designed to capture, store, ma
 + Global Positioning System (GPS) : 全球定位系统
 + Remote Sensing (RS) : 遥感
 
+### 4. DTM example
+
+![DTM Figure 01](./Maps-for-free_Sierra_Nevada.png)
 
 
 
